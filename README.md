@@ -11,11 +11,19 @@ Saya menggunakan bahasa Python lalu saya convert menjadi aplikasi biasa dengan A
 2. Masukkan masing masing jawaban secara berurutan. karena ini pilihan ganda maka jawabannya cukup "A/B/C/D/E" disini bisa langsung copy paste saja semua jawaban secara berurutan yang di pisahkan dengan enter. 
 
 contoh :
-"A
+
+
+A
+
 B
+
 D
+
 E
-A"
+
+A
+
+ 
  
  Bisa juga memasukkan satu satu.
 
