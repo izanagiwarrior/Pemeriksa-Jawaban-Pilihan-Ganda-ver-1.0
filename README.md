@@ -12,13 +12,9 @@ Saya menggunakan bahasa Python lalu saya convert menjadi aplikasi biasa dengan A
 
 contoh :
 "A
-
  B
- 
  D
- 
  E
- 
  A"
  
  Bisa juga memasukkan satu satu.
