@@ -1,5 +1,3 @@
-# source-code
-
 =============== Pemeriksa Jawaban Pilihan Ganda ver 1.0 ===============
 
 Ini adalah aplikasi ver 1.0 dari Pemeriksa Jawaban (Pilihan Ganda).
