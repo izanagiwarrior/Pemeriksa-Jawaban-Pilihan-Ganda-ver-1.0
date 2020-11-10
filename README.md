@@ -31,3 +31,5 @@ A
 
 Next Update :
 - saya akan mencoba mencoba membuat untuk essay.
+
+Sudah saya buat : https://github.com/izanagiwarrior/Pemeriksa-Jawaban-Essay-ver-1.0
